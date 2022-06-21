@@ -9,12 +9,13 @@
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]   
 
 <br>
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)] 
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=JavaScript&logoColor=black)]
 [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)]
 <br><br><br>
   
 ## 🌷 Me 🌷
-[![Instagram](https://img.shields.io/badge/Instagram-white?style=flat-square&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/bsy0720) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:bsy1245@gamil.com)
+[![Instagram](https://img.shields.io/badge/Instagram-white?style=flat-square&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/bsy0720) 
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:bsy1245@gamil.com)
 <br><br><br>
   
   
