@@ -8,11 +8,11 @@
   [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)]  [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)]  [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]    
 
 <br>
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)] [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]
+[![Node.js](https://img.shields.io/badge/Node.js-white?style=flat-square&logo=Node.js&logoColor=339933)] [![MySQL](https://img.shields.io/badge/MySQL-white?style=flat-square&logo=MySQL&logoColor=4479A1)]
 <br><br><br>
   
 ## 🌷 Me 🌷
-[![Instagram](https://img.shields.io/badge/Instagram-white?style=flat-square&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/bsy0720/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:bsy1245@gamil.com)
+[![Instagram](https://img.shields.io/badge/Instagram-white?style=flat-square&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/bsy0720/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:bsy1245@gamil.com)
 <br><br><br>
   
   
