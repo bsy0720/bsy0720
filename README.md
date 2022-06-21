@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=WELCOME!bsy's GitHub&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WELCOME!%20render&fontSize=90)
 
 <div align=center>
   
@@ -15,7 +15,7 @@
   
   
 ### 📅 Today 📅  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg url=https%3A%2F%2Fgithub.com%2Fbsy0720%2Fbsy0720&count_bg=%2354EFC1&title_bg=%23BFCBCD&icon=&icon_color=%230F0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbsy0720&count_bg=%2354EFC1&title_bg=%23BFCBCD&icon=&icon_color=%230F0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br><br><br><br>
     
 </div>
