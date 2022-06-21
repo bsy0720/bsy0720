@@ -1,16 +1,21 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WELCOME! bsy's GitHub%20render&fontSize=90)
 
-<!--
-**bsy0720/bsy0720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+  
+## 💻 tech 💻
+  [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)]  [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)]  [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]    
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+[![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)] [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]
+<br><br><br>
+  
+## 🌷 ME 🌷
+[![Instagram](https://img.shields.io/badge/Instagram-EA4335?style=flat-square&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/bsy0720/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:bsy1245@gamil.com)
+<br><br><br>
+  
+  
+### 📅 Today 📅  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg url=https%3A%2F%2Fgithub.com%2Fbsy0720%2Fbsy0720&count_bg=%2354EFC1&title_bg=%23BFCBCD&icon=&icon_color=%230F0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br><br><br><br><br>
+    
+</div>
