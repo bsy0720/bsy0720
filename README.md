@@ -11,7 +11,11 @@
 <br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-<br><br><br>
+<br>
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+ <br><br><br>
   
 ## 🌷 Me 🌷
 [![Instagram](https://img.shields.io/badge/Instagram-white?style=flat-square&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/bsy0720) 
