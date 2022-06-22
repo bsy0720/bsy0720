@@ -21,14 +21,14 @@
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 <br><br><br>
-  
-  
+   
 ### 📅 Today 📅  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbsy0720&count_bg=%2354EFC1&title_bg=%23BFCBCD&icon=&icon_color=%230F0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br><br><br><br><br>
+<br><br><br>
 
-##📅 Language 📅
+### 📅 Language 📅
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsy0720)](https://github.com/anuraghazra/github-readme-stats)
+<br><br><br><br><br>
     
 </div>
 
