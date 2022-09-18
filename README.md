@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
 </a>
 <a href="https://velog.io/@bsy0720">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>" />
+  <img src="https://img.shields.io/badge/#20C997?style=flat-square&logo=Velog&logoColor=white"/>
 </a>
 <br><br><br>
    
