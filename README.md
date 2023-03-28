@@ -17,9 +17,6 @@
 <a href="https://www.instagram.com/bsy0720/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://dashboard.heroku.com/apps/team-alaska">
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
-</a>
 <a href="https://velog.io/@bsy0720">
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
 </a>
